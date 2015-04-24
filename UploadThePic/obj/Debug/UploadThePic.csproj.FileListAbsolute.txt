@@ -1,0 +1,4 @@
+E:\Backup\Workspace4Net\UploadThePic\UploadThePic\bin\UploadThePic.dll
+E:\Backup\Workspace4Net\UploadThePic\UploadThePic\bin\UploadThePic.pdb
+E:\Backup\Workspace4Net\UploadThePic\UploadThePic\obj\Debug\UploadThePic.dll
+E:\Backup\Workspace4Net\UploadThePic\UploadThePic\obj\Debug\UploadThePic.pdb
